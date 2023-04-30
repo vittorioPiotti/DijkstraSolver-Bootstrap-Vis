@@ -1,0 +1,25 @@
+.pointer {cursor: pointer;}
+.pointer:hover{
+        background-color: rgb(211, 211, 211);
+    }
+#network {
+    width: 100%;
+    height: 350px;
+    border: none;
+}
+.modal {
+    cursor: default;
+}
+#linkGitHub{
+    text-decoration: none; 
+    color: black; 
+    transition:0.5s;
+}
+
+#linkGitHub:hover {
+    color: #008cff; 
+    transition:0.5s;
+}
+#output{
+    user-select: none;
+  }

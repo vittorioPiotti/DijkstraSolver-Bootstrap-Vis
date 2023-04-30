@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "from": 1,
+        "to": 2,
+        "label": " 4 ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 2,
+        "from": 2,
+        "to": 4,
+        "label": " 2 ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 3,
+        "from": 3,
+        "to": 2,
+        "label": " 2 ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 4,
+        "from": 4,
+        "to": 1,
+        "label": " 2 ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 5,
+        "from": 1,
+        "to": 3,
+        "label": " 2 ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 7,
+        "from": "2",
+        "to": "5",
+        "label": "  1  ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 14,
+        "from": "3",
+        "to": "5",
+        "label": "  1  ",
+        "arrowTo": true,
+        "arrowFrom": false
+    }
+]

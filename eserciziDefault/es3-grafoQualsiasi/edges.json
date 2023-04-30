@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "from": 1,
+        "to": 2,
+        "label": "  12  ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 2,
+        "from": 2,
+        "to": 4,
+        "label": "  1  ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 3,
+        "from": 3,
+        "to": 2,
+        "label": " 3 ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 4,
+        "from": 4,
+        "to": 1,
+        "label": " 3 ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 5,
+        "from": 1,
+        "to": 3,
+        "label": " 3 ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 6,
+        "from": "7",
+        "to": "2",
+        "label": "   3   ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 7,
+        "from": "4",
+        "to": "7",
+        "label": "   2   ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 8,
+        "from": "5",
+        "to": "7",
+        "label": "   3   ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 9,
+        "from": "6",
+        "to": "5",
+        "label": "   3   ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 10,
+        "from": "3",
+        "to": "6",
+        "label": " 1 ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 11,
+        "from": "6",
+        "to": "2",
+        "label": " 2 ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 12,
+        "from": "5",
+        "to": "2",
+        "label": "   1   ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 13,
+        "from": 1,
+        "to": 2,
+        "label": "  2  ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 14,
+        "from": "5",
+        "to": "2",
+        "label": "  1  ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 15,
+        "from": "6",
+        "to": "2",
+        "label": "  5  ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 16,
+        "from": 2,
+        "to": 4,
+        "label": " 3 ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 17,
+        "from": "8",
+        "to": "4",
+        "label": "   3   ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 18,
+        "from": "8",
+        "to": "7",
+        "label": "   3   ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 19,
+        "from": "7",
+        "to": "9",
+        "label": "   3   ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 20,
+        "from": "9",
+        "to": "5",
+        "label": "   3   ",
+        "arrowTo": false,
+        "arrowFrom": true
+    },
+    {
+        "id": 21,
+        "from": "3",
+        "to": "10",
+        "label": "   3   ",
+        "arrowTo": false,
+        "arrowFrom": false
+    },
+    {
+        "id": 22,
+        "from": "6",
+        "to": "10",
+        "label": "   1   ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 23,
+        "from": "11",
+        "to": "3",
+        "label": "   2   ",
+        "arrowTo": true,
+        "arrowFrom": false
+    },
+    {
+        "id": 24,
+        "from": "11",
+        "to": "1",
+        "label": "   2   ",
+        "arrowTo": false,
+        "arrowFrom": false
+    }
+]
