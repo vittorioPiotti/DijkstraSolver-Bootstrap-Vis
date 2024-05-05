@@ -8,4 +8,4 @@ Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'alg
 
 ## Sito Mobile
 
-![Sito Mobile](https://github.com/vittorioPiotti/Dijkstra/blob/main/mobile.png)
+![Sito Mobile](https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png)
