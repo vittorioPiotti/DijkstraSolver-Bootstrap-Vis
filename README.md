@@ -7,6 +7,11 @@ Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'alg
 ## Ispirazione
 
 La grafica del sito web è stata ispirata e sviluppata indipendentemente riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
+
+## Referenze 
+
+- Sito Web Dijkstra: [Link al Sito](7khz9k.csb.app/Dijkstra)
+
  
 
 ## Caratteristiche Principali:
