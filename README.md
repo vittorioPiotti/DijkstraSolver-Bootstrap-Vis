@@ -1,3 +1,6 @@
+<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona" />
+
+
 # Dijkstra Bootstrap
 Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'algoritmo di Dijkstra con visualizzazione di tutti i cammini minimi
 
