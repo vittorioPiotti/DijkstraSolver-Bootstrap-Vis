@@ -18,9 +18,9 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 
 1. **Creazione di Esercizi Personalizzati** è possibile definire dei grafi con nodi, archi e pesi associati.
 
-2. **Interfaccia Utente Intuitiva**: L'interfaccia utente è **progettata per essere intuitiva** e *user-friendly*, consentendo agli utenti di creare e modificare grafi in modo semplice e immediato.
+2. **Interfaccia User-Friendly**: gli utenti possono creare e modificare grafi in modo semplice e immediato.
 
-3. **Risoluzione degli Esercizi**: I risultati vengono visualizzati chiaramente e in modo comprensibile, consentendo agli utenti di comprendere i passaggi dell'algoritmo di Dijkstra e i risultati ottenuti visuallizzando **tutti i cammini minimi**.
+3. **Risoluzione degli Esercizi**: I risultati mostrano chiaramente i passaggi dell'algoritmo di Dijkstra visuallizzando **tutti i cammini minimi**.
 
 
 ## Utilizzo
