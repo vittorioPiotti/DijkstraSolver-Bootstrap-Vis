@@ -6,7 +6,15 @@ Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'alg
 La grafica del sito web è stata ispirata e sviluppata indipendentemente riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
  
 
+## Caratteristiche Principali:
 
+1. **Creazione di Esercizi Personalizzati**: Con *Dijkstra*, gli utenti possono facilmente creare esercizi personalizzati definendo grafi con nodi, archi e pesi associati.
+
+2. **Interfaccia Utente Intuitiva**: L'interfaccia utente è progettata per essere intuitiva e *user-friendly*, consentendo agli utenti di creare e modificare grafi in modo semplice e immediato.
+
+3. **Risoluzione Automatica**: Una volta creato un esercizio, *Dijkstra* offre la possibilità di risolverlo automaticamente, calcolando tutti i cammini minimi nel grafo definito dall'utente.
+
+4. **Visualizzazione dei Risultati**: I risultati vengono visualizzati chiaramente e in modo comprensibile, consentendo agli utenti di comprendere i passaggi dell'algoritmo di Dijkstra e i risultati ottenuti.
 
 
 ## Utilizzo
