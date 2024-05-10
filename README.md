@@ -12,9 +12,9 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 
 2. **Interfaccia Utente Intuitiva**: L'interfaccia utente è progettata per essere intuitiva e *user-friendly*, consentendo agli utenti di creare e modificare grafi in modo semplice e immediato.
 
-3. **Risoluzione Automatica**: Una volta creato un esercizio, *Dijkstra* offre la possibilità di risolverlo automaticamente, calcolando tutti i cammini minimi nel grafo definito dall'utente.
+3. **Risoluzione Automatica**: Una volta creato un esercizio, *Dijkstra* offre la possibilità di risolverlo automaticamente, calcolando *tutti i cammini minimi* nel grafo definito dall'utente.
 
-4. **Visualizzazione dei Risultati**: I risultati vengono visualizzati chiaramente e in modo comprensibile, consentendo agli utenti di comprendere i passaggi dell'algoritmo di Dijkstra e i risultati ottenuti.
+4. **Visualizzazione dei Risultati**: I risultati vengono visualizzati chiaramente e in modo comprensibile, consentendo agli utenti di comprendere i passaggi dell'algoritmo di Dijkstra e i risultati ottenuti su *tutti i cammini minimi*.
 
 
 ## Utilizzo
