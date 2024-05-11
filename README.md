@@ -35,13 +35,13 @@ Click sullo Sfondo per Nuovo Nodo
 
 Click sul Nodo per Elimina Nodo o Crea Arco
 
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickNodo.png" alt="Icona" width="400"/>
+<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickNodo.png" alt="Icona" width="500"/>
 
 ### Click sull'Arco
 
 Click sull'Arco per Elimina Arco o Modifica Arco o Sdoppia Arco o Unisci archi (Massimo Due Archi tra Due Nodi)
 
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="400"/>
+<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="500"/>
 
 ## Preview
 
