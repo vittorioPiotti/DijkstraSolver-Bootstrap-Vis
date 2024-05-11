@@ -12,8 +12,11 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 
 - Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
 
+### Sito Web
 
-## Utilizzo
+Le schermate riportate diseguito sono gli Screenshots del Sito sul browser Chrome
+
+### Utilizzo
 
 l'utente effettua il doppio click su uno di questi elementi del Grafo per:
 | Sfondo| Nodo | Arco |
@@ -24,7 +27,7 @@ l'utente effettua il doppio click su uno di questi elementi del Grafo per:
 |  |  | Sdoppia Arco |
 |  |  | Ellimina Arco |
 
-## Preview
+### Preview
 
 | Desktop | Mobile|
  ------------ | ------------ |
