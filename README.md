@@ -43,12 +43,12 @@ Click sull'Arco per Elimina Arco o Modifica Arco o Sdoppia Arco o Unisci archi (
 
 <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="400"/>
 
-## Sito Desktop
+## Preview
 
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona" width="400"/>
+### Checkout
 
+| Checkout | Paga|
+ ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="300"/> | 
 
-## Sito Mobile
-
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="400"/>
 
