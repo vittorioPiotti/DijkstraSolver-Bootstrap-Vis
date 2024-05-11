@@ -14,7 +14,7 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 
 ### Sito Web
 
-Le schermate riportate diseguito sono gli Screenshots dal [Sito Web](https://7khz9k.csb.app/Dijkstra)
+Le schermate riportate diseguito sono gli **Screenshots del Sito Web**
 
 ### Utilizzo
 
