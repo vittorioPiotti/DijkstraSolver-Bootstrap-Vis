@@ -29,8 +29,8 @@ l'utente effettua il doppio click su uno di questi elementi del Grafo per:
 | Sfondo| Nodo | Arco |
 | ------------ | ------------ | ------------ |
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickSfondo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickNodo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="300"/>|
-| Nuovo Nodo | Elimina Nodo o Crea Arco | Nuovo Arco
-|  |  | Modifica Arco |
+| Nuovo Nodo | Crea Arco | Nuovo Arco
+|  | Elimina Nodo| Modifica Arco |
 |  |  | Sdoppia Arco |
 |  |  | Ellimina Arco |
 
