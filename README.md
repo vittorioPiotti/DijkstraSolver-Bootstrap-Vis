@@ -43,12 +43,20 @@ Click sull'Arco per Elimina Arco o Modifica Arco o Sdoppia Arco o Unisci archi (
 
 <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="400"/>
 
+### Utilizzo
+
+l'utente effettua il doppio click su uno di questi elementi del Grafo per:
+| Sfondo| Nodo | Arco |
+| ------------ | ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickSfondo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickNodo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco" alt="Icona" width="300"/>|
+| Niovo Nodo | Elimina Nodo o Crea Arco | Elimina Modifica Sdoppia Arco o Unisci Archi|
+
+
 ## Preview
 
-### Checkout
-
-| Checkout | Paga|
+| Desktop | Mobile|
  ------------ | ------------ |
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="700"/> | 
+
 
 
