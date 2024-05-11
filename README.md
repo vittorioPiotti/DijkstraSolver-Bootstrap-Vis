@@ -12,16 +12,6 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 
 - Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
 
- 
-
-## Caratteristiche Principali:
-
-1. **Creazione di Esercizi Personalizzati** è possibile definire dei grafi con nodi, archi e pesi associati.
-
-2. **Interfaccia User-Friendly**: gli utenti possono creare e modificare grafi in modo semplice e immediato.
-
-3. **Risoluzione degli Esercizi**: I risultati mostrano chiaramente i passaggi dell'algoritmo di Dijkstra visuallizzando **tutti i cammini minimi**.
-
 
 ### Utilizzo
 
