@@ -10,7 +10,7 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 
 ## Sito Web
 
-- Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
+Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
 
 ## Utilizzo
 
