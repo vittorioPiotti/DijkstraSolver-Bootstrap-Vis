@@ -18,7 +18,7 @@ Le schermate riportate diseguito sono gli **Screenshots del Sito Web**
 
 ### Utilizzo
 
-l'utente effettua il doppio click su uno di questi elementi del Grafo per:
+l'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 | Sfondo| Nodo | Arco |
 | ------------ | ------------ | ------------ |
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickSfondo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickNodo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="300"/>|
