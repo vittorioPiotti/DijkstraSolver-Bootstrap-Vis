@@ -13,7 +13,7 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 - Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
 
 
-### Utilizzo
+## Utilizzo
 
 l'utente effettua il doppio click su uno di questi elementi del Grafo per:
 | Sfondo| Nodo | Arco |
