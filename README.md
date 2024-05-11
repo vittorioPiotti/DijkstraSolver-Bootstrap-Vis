@@ -23,34 +23,16 @@ La grafica del sito web è stata ispirata e sviluppata indipendentemente ripropo
 3. **Risoluzione degli Esercizi**: I risultati mostrano chiaramente i passaggi dell'algoritmo di Dijkstra visuallizzando **tutti i cammini minimi**.
 
 
-## Utilizzo
-
-### Click sullo Sfondo
-
-Click sullo Sfondo per Nuovo Nodo
-
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickSfondo.png" alt="Icona" width="400"/>
-
-### Click sul Nodo
-
-Click sul Nodo per Elimina Nodo o Crea Arco
-
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickNodo.png" alt="Icona" width="400"/>
-
-### Click sull'Arco
-
-Click sull'Arco per Elimina Arco o Modifica Arco o Sdoppia Arco o Unisci archi (Massimo Due Archi tra Due Nodi)
-
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="400"/>
-
 ### Utilizzo
 
 l'utente effettua il doppio click su uno di questi elementi del Grafo per:
 | Sfondo| Nodo | Arco |
 | ------------ | ------------ | ------------ |
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickSfondo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickNodo.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickArco.png" alt="Icona" width="300"/>|
-| Niovo Nodo | Elimina Nodo o Crea Arco | Elimina Modifica Sdoppia Arco o Unisci Archi|
-
+| Nuovo Nodo | Elimina Nodo o Crea Arco | 
+| - Elimina Modifica |
+| - Sdoppia Arco |
+| - Unisci Archi |
 
 ## Preview
 
