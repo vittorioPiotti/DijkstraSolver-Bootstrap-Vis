@@ -14,6 +14,9 @@ Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
 
 ## Utilizzo
 
+**Generare Esercizi** è possibile caricando i **file json** dei nodi e degli archi per rappresentare i grafici
+
+
 L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 | Sfondo| Nodo | Arco |
 | ------------ | ------------ | ------------ |
