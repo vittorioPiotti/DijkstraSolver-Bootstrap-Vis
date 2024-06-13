@@ -20,7 +20,7 @@ Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
 L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 | Sfondo| Nodo | Arco |
 | ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clicksfondo.gif" alt="Icona" width="33%"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clicknodo.gif" alt="Icona" width="33%"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickarco.gif" alt="Icona" width="33%"/>|
+| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clicksfondo.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clicknodo.gif" alt="Icona" width="100%"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/clickarco.gif" alt="Icona" width="100%"/>|
 | Nuovo Nodo | Crea Arco | Elimina Arco |
 |  | Elimina Nodo | Direziona Arco |
 |  |  | Sdoppia Arco |
