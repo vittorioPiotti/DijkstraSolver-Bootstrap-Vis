@@ -4,6 +4,10 @@
 # Dijkstra Bootstrap
 Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'algoritmo di Dijkstra con visualizzazione di **Tutti i Cammini Minimi**
 
+## Licenza
+Questo progetto è rilasciato sotto la GNU General Public License versione 3.0.
+Per maggiori dettagli, vedere il file (LICENSE)[].
+
 ## Ispirazione
 
 La grafica del sito web è stata ispirata e **sviluppata indipendentemente** riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
