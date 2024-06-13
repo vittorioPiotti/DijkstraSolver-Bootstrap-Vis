@@ -1,22 +1,9 @@
-/*
- * File: main.js
- * Copyright (c) 2024 Vittorio Piotti
- *
- * Questo file è parte di Dijkstra Solver.
- *
- * Dijkstra Solver è software libero: puoi ridistribuirlo e/o modificarlo
- * sotto i termini della GNU General Public License come pubblicato dalla
- * Free Software Foundation, versione 3 della Licenza, o (a tua scelta)
- * qualsiasi versione successiva.
- *
- * Dijkstra Solver è distribuito nella speranza che possa essere utile,
- * ma SENZA ALCUNA GARANZIA; senza nemmeno la garanzia implicita di
- * COMMERCIABILITÀ o IDONEITÀ A UN PARTICOLARE SCOPO. Vedi la
- * GNU General Public License per maggiori dettagli.
- *
- * Dovresti aver ricevuto una copia della GNU General Public License
- * insieme a Dijkstra Solver. In caso contrario, vedi <https://www.gnu.org/licenses/>.
+/*!
+ * Dijkstra-Bootstrap v1.0.0 (https://github.com/vittorioPiotti/Dijkstra-Bootstrap/releases/tag/v1.0.0)
+ * Copyright 2024 Vittorio Piotti
+ * Licensed under MIT (https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/LICENSE.md)
  */
+
 
 /*!
   * Bootstrap v4.0.0 (https://getbootstrap.com)
