@@ -1,3 +1,73 @@
+/*
+ * File: main.js
+ * Copyright (c) 2024 Vittorio Piotti
+ *
+ * Questo file è parte di Dijkstra Solver.
+ *
+ * Dijkstra Solver è software libero: puoi ridistribuirlo e/o modificarlo
+ * sotto i termini della GNU General Public License come pubblicato dalla
+ * Free Software Foundation, versione 3 della Licenza, o (a tua scelta)
+ * qualsiasi versione successiva.
+ *
+ * Dijkstra Solver è distribuito nella speranza che possa essere utile,
+ * ma SENZA ALCUNA GARANZIA; senza nemmeno la garanzia implicita di
+ * COMMERCIABILITÀ o IDONEITÀ A UN PARTICOLARE SCOPO. Vedi la
+ * GNU General Public License per maggiori dettagli.
+ *
+ * Dovresti aver ricevuto una copia della GNU General Public License
+ * insieme a Dijkstra Solver. In caso contrario, vedi <https://www.gnu.org/licenses/>.
+ */
+
+/*
+ * Libreria: Bootstrap
+ * Licenza: The MIT License (MIT)
+ *
+ * Copyright (c) 2011-2018 Twitter, Inc.
+ * Copyright (c) 2011-2018 The Bootstrap Authors
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
+/*
+ * Libreria: Vis.js
+ * Licenza: The MIT License (MIT)
+ *
+ * Copyright (c) 2014-2017 Almende B.V.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all
+ * copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
 
 
  const ELIMINA = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" style="color: red;" fill="currentColor" class="bi bi-dash-lg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2 8a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11A.5.5 0 0 1 2 8Z"/></svg>'
