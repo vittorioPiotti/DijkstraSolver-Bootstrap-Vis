@@ -7,6 +7,7 @@ Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'alg
 
 > [!TIP]
 > Sito web **Responsive** con modalità **Desktop** e **Mobile**
+
 ## Ispirazione
 
 La grafica del sito web è stata ispirata e **sviluppata indipendentemente** riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
