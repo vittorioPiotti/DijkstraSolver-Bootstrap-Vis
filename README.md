@@ -1,4 +1,4 @@
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona" />
+<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" />
 
 
 # Dijkstra Bootstrap
