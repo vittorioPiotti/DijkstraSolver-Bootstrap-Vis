@@ -39,9 +39,8 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 ## Preview
 
-| Desktop | Mobile|
- ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="700"/> | 
 
+| <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="700"/> | 
+| ------------ | ------------ |
 
 
