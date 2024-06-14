@@ -30,14 +30,6 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 |  |  | Sdoppia Arco |
 |  |  | Modifica Arco |
 
-## Licenze
-
-| Componente         | Versione  | Copyright                         | Licenza                                                       |
-|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| Dijkstra-Bootstrap | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0 License](https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/LICENSE.md) |
-| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
-| vis.js             | 4.21.0    | 2011-2017 Almende B.V, http://almende.com | [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0), [MIT License](http://opensource.org/licenses/MIT) |
-
 
 
 ## Preview
@@ -45,5 +37,13 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="800"/> | 
 | ------------ | ------------ |
+
+## Licenze
+
+| Componente         | Versione  | Copyright                         | Licenza                                                       |
+|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
+| Dijkstra-Bootstrap | v1.0.0    | 2024 Vittorio Piotti              | [GPL-3.0 License](https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/LICENSE.md) |
+| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
+| vis.js             | 4.21.0    | 2011-2017 Almende B.V, http://almende.com | [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0), [MIT License](http://opensource.org/licenses/MIT) |
 
 
