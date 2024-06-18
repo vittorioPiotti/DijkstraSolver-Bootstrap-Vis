@@ -2,7 +2,7 @@
 
 
 # Dijkstra Bootstrap
-Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'algoritmo di Dijkstra con visualizzazione di **Tutti i Cammini Minimi**
+Sito web che offre un'interfaccia user friendly per sviluppare esercizi sull'algoritmo di Dijkstra con visualizzazione di **Tutti i Cammini Minimi** e **Archi Direzionabili**
 
 
 > [!TIP]
