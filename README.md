@@ -5,7 +5,11 @@
 Dijkstra Solver dal design efficace per creare e caricare esercizi su Dijkstra con visualizzazione di **Tutti i Cammini Minimi** e con **Archi Direzionabili**
 
 > [!TIP]
+> Corretto funzionamento garantito
+
+> [!TIP]
 > Sito web **Responsive** con modalità **Desktop** e **Mobile**
+
 
 ## Ispirazione
 
