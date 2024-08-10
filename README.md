@@ -13,7 +13,7 @@ Dijkstra Solver dal design efficace per creare e caricare esercizi su Dijkstra c
 
 ## Ispirazione
 
-La grafica del sito web è stata ispirata e **sviluppata indipendentemente** riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
+La grafica del sito web è stata sviluppata riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
 
 ## Sito Web
 
