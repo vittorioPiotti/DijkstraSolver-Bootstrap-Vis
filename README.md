@@ -46,67 +46,8 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 | ------------ | ------------ |
 
 
-## Snippet Dijkstra Algorithm
-
-```js
-
-function Dijkstra(){
-    cost = [];
-    app = [];
-    prec = [];
-    tab = [];
-    var flag = false;
-    do {
-        if (tuttiEsplorati() == true) flag = true;
-        else{
-            var idNodoA = ricercaCostoMinoreTraNonEsplorati();
-            tabellaAppoggio[idNodoA].used = true;
-            for (let idNodoB in nodiCollegati[idNodoA]){
-                if (nodiCollegati[idNodoA][idNodoB] + tabellaAppoggio[idNodoA].cost < tabellaAppoggio[idNodoB].cost){
-                    tabellaAppoggio[idNodoB].cost = nodiCollegati[idNodoA][idNodoB] + tabellaAppoggio[idNodoA].cost;
-                    tabellaAppoggio[idNodoB].prec = idNodoA;
-                }
-                else if (nodiCollegati[idNodoA][idNodoB] + tabellaAppoggio[idNodoA].cost == tabellaAppoggio[idNodoB].cost){
-                    cost.push(nodiCollegati[idNodoA][idNodoB] + tabellaAppoggio[idNodoA].cost)
-                    prec.push(idNodoA)
-                    app.push(idNodoB)
-                }
-            }
-        }
-    } while (flag == false);
-    tab[app.length] = {}
-    nodes.forEach(function(node){
-        tab[app.length][node.id] = {
-            cost: tabellaAppoggio[node.id].cost,
-            prec: tabellaAppoggio[node.id].prec,
-            used: tabellaAppoggio[node.id].used
-        }
-    })
-    percorsi = app.length + 1;
-    for (let i = 0; i < app.length; i++){
-        tab[i] = {}
-        nodes.forEach(function(node){
-            if (node.id == app[i]){
-                tab[i][node.id] = {
-                    cost: cost[i],
-                    prec: prec[i],
-                    used: true
-                }
-            }
-            else{
-                tab[i][node.id] = {
-                    cost: tabellaAppoggio[node.id].cost,
-                    prec: tabellaAppoggio[node.id].prec,
-                    used: tabellaAppoggio[node.id].used
-                }
-            }
-        })
-    }
-}
 
 
-
-```
 
 
 ## Licenze
