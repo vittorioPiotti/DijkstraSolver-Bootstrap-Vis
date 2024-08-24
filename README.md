@@ -14,6 +14,10 @@ Dijkstra Solver dal design efficace per creare e caricare esercizi su Dijkstra c
 > [!TIP]
 > Sito web **Responsive** con modalità **Desktop** e **Mobile**
 
+### Support Me
+
+[<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
+
 
 ## Ispirazione
 
