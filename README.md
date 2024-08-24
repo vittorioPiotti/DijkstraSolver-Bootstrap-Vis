@@ -50,7 +50,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 ```js
 
-function dijkstra(){
+function Dijkstra(){
     cost = [];
     app = [];
     prec = [];
