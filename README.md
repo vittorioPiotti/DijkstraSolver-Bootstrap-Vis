@@ -58,7 +58,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 | Componente         | Versione  | Copyright                         | Licenza                                                       |
 |--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [DijkstraSolver](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis) | [v1.0.0](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/Dijkstra-Bootstrap/blob/main/LICENSE.md) |
+| [DijkstraSolver](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis) | [v1.0.0](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis/blob/main/LICENSE.md) |
 | Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT ](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
 | vis.js             | 4.21.0    | 2011-2017 Almende B.V, http://almende.com | [Apache 2.0 ](http://www.apache.org/licenses/LICENSE-2.0), [MIT ](http://opensource.org/licenses/MIT) |
 
