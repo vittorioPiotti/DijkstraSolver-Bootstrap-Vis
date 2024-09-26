@@ -1,4 +1,4 @@
-<img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/preview.gif" alt="Icona" width="100%"/>
+![](https://komarev.com/ghpvc/?vittorioPiotti&color=blue)
 
 
 # Dijkstra Bootstrap
