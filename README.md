@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?vittorioPiotti&color=blue)
-
 
 # Dijkstra Bootstrap
 Dijkstra Solver dal design efficace per creare e caricare esercizi su Dijkstra con visualizzazione di **Tutti i Cammini Minimi** e con **Archi Direzionabili**
