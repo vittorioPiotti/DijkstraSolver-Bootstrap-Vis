@@ -41,6 +41,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 |  |  | Sdoppia Arco |
 |  |  | Modifica Arco |
 
+> Gifs made by PathGraph running software testing videos
 
 
 ## Preview
