@@ -39,7 +39,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 |  |  | Sdoppia Arco |
 |  |  | Modifica Arco |
 
-> Gifs made by DijkstraSolver web syte testing videos
+> The gifs are taken from the DijkstraSolver website
 
 
 ## Preview
