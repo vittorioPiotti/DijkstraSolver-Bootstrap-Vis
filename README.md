@@ -41,7 +41,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 |  |  | Sdoppia Arco |
 |  |  | Modifica Arco |
 
-> Gifs made by PathGraph running software testing videos
+> Gifs made by DijkstraSolver web syte testing videos
 
 
 ## Preview
@@ -49,7 +49,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="800"/> | 
 | ------------ | ------------ |
-
+> Screenshots take from DijkstraSolver web syte
 
 
 
