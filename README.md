@@ -47,7 +47,8 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="800"/> | 
 | ------------ | ------------ |
-> Screenshots take from DijkstraSolver web syte
+
+> The screenshots are taken from the DijkstraSolver website
 
 
 
