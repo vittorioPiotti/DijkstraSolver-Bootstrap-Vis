@@ -39,7 +39,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 |  |  | Sdoppia Arco |
 |  |  | Modifica Arco |
 
-> The gifs are taken from the DijkstraSolver website
+> Gifs taken from DijkstraSolver 
 
 
 ## Preview
@@ -48,7 +48,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="800"/> | 
 | ------------ | ------------ |
 
-> The screenshots are taken from the DijkstraSolver website
+> Screenshots taken from DijkstraSolver 
 
 
 
