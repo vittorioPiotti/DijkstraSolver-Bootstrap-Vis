@@ -67,9 +67,10 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 **Copyright** 2011-2018 The Bootstrap Authors 
 
-**Version** [v1.11.0](https://blog.getbootstrap.com/2023/09/12/bootstrap-icons-1-11-0/)
+**Version** [v5.2](https://github.com/twbs/bootstrap/releases/tag/v5.2.0)
 
-**License** [MIT](https://github.com/twbs/icons/blob/main/LICENSE)
+**License** [MIT](https://github.com/twbs/bootstrap/blob/main/LICENSE)
+
 
 
 
