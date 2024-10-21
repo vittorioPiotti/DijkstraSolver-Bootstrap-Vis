@@ -6,11 +6,6 @@ Dijkstra Solver dal design efficace per creare e caricare esercizi su Dijkstra c
 > Progetto scolastico
 
 
-> [!TIP]
-> Corretto funzionamento garantito
-
-> [!TIP]
-> Sito web **Responsive** con modalità **Desktop** e **Mobile**
 
 #### Support Me
 
