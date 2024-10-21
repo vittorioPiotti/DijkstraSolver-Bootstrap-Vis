@@ -16,9 +16,8 @@ Dijkstra Solver dal design efficace per creare e caricare esercizi su Dijkstra c
 
 La grafica del sito web è stata sviluppata riproponendo l'interfaccia utente offerta da [Scheduling Solver](https://process-scheduling-solver.boonsuen.com/)
 
-## Sito Web
 
-Sito Web Dijkstra: [Link al Sito](https://7khz9k.csb.app/Dijkstra)
+
 
 ## Utilizzo
 
@@ -39,6 +38,9 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 ## Preview
 
+Sito Web: [Link al Sito](https://vittoriopiotti.altervista.org/Dijkstra/index.html)
+
+---
 
 | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/desktop.png" alt="Icona"/> | <img src="https://github.com/vittorioPiotti/Dijkstra/blob/main/Mobile.png" alt="Icona" width="800"/> | 
 | ------------ | ------------ |
