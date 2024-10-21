@@ -63,7 +63,7 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 ---
 
-### Bootstrap Icons
+### Bootstrap 
 
 **Copyright** 2011-2018 The Bootstrap Authors 
 
