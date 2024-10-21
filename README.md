@@ -56,10 +56,36 @@ L'utente effettua il **Doppio Click** su uno di questi elementi del Grafo per:
 
 ## Licenze
 
-| Componente         | Versione  | Copyright                         | Licenza                                                       |
-|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [DijkstraSolver](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis) | [v1.0.0](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis/blob/main/LICENSE.md) |
-| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT ](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
-| vis.js             | 4.21.0    | 2011-2017 Almende B.V, http://almende.com | [Apache 2.0 ](http://www.apache.org/licenses/LICENSE-2.0), [MIT ](http://opensource.org/licenses/MIT) |
+
+
+### DijkstraSolver
+
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis/releases/tag/v1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/DijkstraSolver-Bootstrap-Vis/blob/main/LICENSE.md)
+
+---
+
+### Bootstrap Icons
+
+**Copyright** 2011-2018 The Bootstrap Authors 
+
+**Version** [v1.11.0](https://blog.getbootstrap.com/2023/09/12/bootstrap-icons-1-11-0/)
+
+**License** [MIT](https://github.com/twbs/icons/blob/main/LICENSE)
+
+
+
+---
+
+### vis.js
+
+**Copyright** 2011-2017 Almende B.V, [http://almende.com](http://almende.com)
+
+**Version** [4.21.0](https://github.com/almende/vis/releases/tag/v4.21.0)
+
+**License** [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0), [MIT](http://opensource.org/licenses/MIT)
 
 
